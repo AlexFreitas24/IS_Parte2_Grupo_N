@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stream_Sender", "Stream_Sender.csproj", "{B1E99179-EA4B-4EF0-A22A-DB2DFE9B8964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E99179-EA4B-4EF0-A22A-DB2DFE9B8964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E99179-EA4B-4EF0-A22A-DB2DFE9B8964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E99179-EA4B-4EF0-A22A-DB2DFE9B8964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E99179-EA4B-4EF0-A22A-DB2DFE9B8964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98BEA9CC-D2A9-4EA6-93BE-D8CDFBF76297}
+	EndGlobalSection
+EndGlobal

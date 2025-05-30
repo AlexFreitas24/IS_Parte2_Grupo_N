@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\ReceiverCom_Topicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D0D64F-A05D-4909-A2DB-9A16983D5A75}|ReceiverCom_Topicos.csproj|C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\ReceiverCom_Topicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D0D64F-A05D-4909-A2DB-9A16983D5A75}|ReceiverCom_Topicos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7007682-BA33-4F00-AC9A-5332CB6A2AF5}|..\\Monitoriza\u00E7\u00E3oFalha\\Monitoriza\u00E7\u00E3oFalha.csproj|c:\\users\\oigam\\desktop\\integra\u00E7\u00E3o de sistemas\\trabalho2\u00AAparte\\monitoriza\u00E7\u00E3ofalha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7007682-BA33-4F00-AC9A-5332CB6A2AF5}|..\\Monitoriza\u00E7\u00E3oFalha\\Monitoriza\u00E7\u00E3oFalha.csproj|c:\\users\\oigam\\desktop\\integra\u00E7\u00E3o de sistemas\\trabalho2\u00AAparte\\monitoriza\u00E7\u00E3ofalha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7007682-BA33-4F00-AC9A-5332CB6A2AF5}|..\\Monitoriza\u00E7\u00E3oFalha\\Monitoriza\u00E7\u00E3oFalha.csproj|c:\\users\\oigam\\desktop\\integra\u00E7\u00E3o de sistemas\\trabalho2\u00AAparte\\monitoriza\u00E7\u00E3ofalha\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\Monitoriza\u00E7\u00E3oFalha\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Monitoriza\u00E7\u00E3oFalha\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\Monitoriza\u00E7\u00E3oFalha\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\Monitoriza\u00E7\u00E3oFalha\\Form1.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:11:42.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\ReceiverCom_Topicos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\ReceiverCom_Topicos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:37:06.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs",
+              "ToolTip": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:42:31.611Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs",
+              "ToolTip": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs",
+              "RelativeToolTip": "..\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwE8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:06:12.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

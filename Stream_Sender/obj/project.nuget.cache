@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJlXhLkA4CpCs5nc73AKnyK+sYdMId9CT99ZiEzl59oUhFW2QQSFe6qUEyrndJ3777wfQyuDTCubS27jyir1WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oigam\\Desktop\\Integração de Sistemas\\Trabalho2ªParte\\Stream_Sender\\Stream_Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oigam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\oigam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\oigam\\.nuget\\packages\\rabbitmq.stream.client\\1.8.13\\rabbitmq.stream.client.1.8.13.nupkg.sha512",
+    "C:\\Users\\oigam\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

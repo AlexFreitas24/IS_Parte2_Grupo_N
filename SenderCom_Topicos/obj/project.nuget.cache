@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "axYNfjqClUHsgVJBRL53iu66LS0kQRK++pYtduIu7TzFczYH88mnKe1OJKoJH95nvty0+Q7PNzy0Xf7/CLX4Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oigam\\Desktop\\Integração de Sistemas\\Trabalho2ªParte\\SenderCom_Topicos\\SenderCom_Topicos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oigam\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\oigam\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\oigam\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

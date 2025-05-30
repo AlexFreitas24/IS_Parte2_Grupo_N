@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9aWOgGFeqxfjkJrZqc2P/SkiiT9MmKNTVbc4yKJcas9AnUICUaWaQK5nNBqljfpY+U1AVlZ+t2q9BCCmWPD3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oigam\\Desktop\\Integração de Sistemas\\Trabalho2ªParte\\MonitorizaçãoFalha\\MonitorizaçãoFalha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oigam\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\oigam\\.nuget\\packages\\system.io.pipelines\\9.0.5\\system.io.pipelines.9.0.5.nupkg.sha512",
+    "C:\\Users\\oigam\\.nuget\\packages\\system.text.encodings.web\\9.0.5\\system.text.encodings.web.9.0.5.nupkg.sha512",
+    "C:\\Users\\oigam\\.nuget\\packages\\system.text.json\\9.0.5\\system.text.json.9.0.5.nupkg.sha512",
+    "C:\\Users\\oigam\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

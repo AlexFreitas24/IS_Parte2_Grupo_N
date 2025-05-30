@@ -1,0 +1,7 @@
+C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\WebService_Client\bin\Debug\WebService_Client.exe.config
+C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\WebService_Client\bin\Debug\WebService_Client.exe
+C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\WebService_Client\bin\Debug\WebService_Client.pdb
+C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\WebService_Client\obj\Debug\WebService_Client.csproj.AssemblyReference.cache
+C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\WebService_Client\obj\Debug\WebService_Client.csproj.CoreCompileInputs.cache
+C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\WebService_Client\obj\Debug\WebService_Client.exe
+C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\WebService_Client\obj\Debug\WebService_Client.pdb
