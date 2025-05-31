@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stream_Sender")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85b6ca5f1a461259a849589b9602e095811fc914")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+566c327363a28b0e0f42892d4293548961e84ccd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stream_Sender")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stream_Sender")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

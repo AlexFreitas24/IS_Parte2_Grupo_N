@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\ReceiverCom_Topicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7D0D64F-A05D-4909-A2DB-9A16983D5A75}|ReceiverCom_Topicos.csproj|C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\ReceiverCom_Topicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7D0D64F-A05D-4909-A2DB-9A16983D5A75}|ReceiverCom_Topicos.csproj|c:\\users\\oigam\\desktop\\integra\u00E7\u00E3o de sistemas\\trabalho2\u00AAparte\\receivercom_topicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7D0D64F-A05D-4909-A2DB-9A16983D5A75}|ReceiverCom_Topicos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\ReceiverCom_Topicos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T17:37:06.747Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "ToolTip": "C:\\Users\\oigam\\Desktop\\Integra\u00E7\u00E3o de Sistemas\\Trabalho2\u00AAParte\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs [Design]",
               "RelativeToolTip": "..\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T17:42:31.611Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-30T17:42:31.611Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "..\\Monitoriza\u00E7\u00E3oFalha\\Form1.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAmwE8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T17:06:12.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T17:06:12.101Z"
             }
           ]
         }
