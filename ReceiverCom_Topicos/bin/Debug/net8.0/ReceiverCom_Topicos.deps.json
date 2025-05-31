@@ -9,6 +9,7 @@
       "ReceiverCom_Topicos/1.0.0": {
         "dependencies": {
           "RabbitMQ.Client": "7.1.2",
+          "System.Net.Http.Json": "9.0.5",
           "System.Text.Json": "9.0.5"
         },
         "runtime": {
@@ -30,6 +31,17 @@
       "System.IO.Pipelines/9.0.5": {
         "runtime": {
           "lib/net8.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.525.21509"
+          }
+        }
+      },
+      "System.Net.Http.Json/9.0.5": {
+        "dependencies": {
+          "System.Text.Json": "9.0.5"
+        },
+        "runtime": {
+          "lib/net8.0/System.Net.Http.Json.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.525.21509"
           }
@@ -92,6 +104,13 @@
       "sha512": "sha512-5WXo+3MGcnYn54+1ojf+kRzKq1Q6sDUnovujNJ2ky1nl1/kP3+PMil9LPbFvZ2mkhvAGmQcY07G2sfHat/v0Fw==",
       "path": "system.io.pipelines/9.0.5",
       "hashPath": "system.io.pipelines.9.0.5.nupkg.sha512"
+    },
+    "System.Net.Http.Json/9.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WobqAA+zMpzxJ6EkSNkHrjltyx+s+yTM+BoBJt74aqjBDyrsLE+buHvFyp49sjAyzRZ/ywJ25T4LMDX5b+zL3Q==",
+      "path": "system.net.http.json/9.0.5",
+      "hashPath": "system.net.http.json.9.0.5.nupkg.sha512"
     },
     "System.Text.Encodings.Web/9.0.5": {
       "type": "package",

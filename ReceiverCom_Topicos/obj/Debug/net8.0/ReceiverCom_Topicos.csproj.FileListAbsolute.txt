@@ -21,3 +21,4 @@ C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\ReceiverCom_Top
 C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\ReceiverCom_Topicos\obj\Debug\net8.0\ReceiverCom_Topicos.pdb
 C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\ReceiverCom_Topicos\obj\Debug\net8.0\ReceiverCom_Topicos.genruntimeconfig.cache
 C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\ReceiverCom_Topicos\obj\Debug\net8.0\ref\ReceiverCom_Topicos.dll
+C:\Users\oigam\Desktop\Integração de Sistemas\Trabalho2ªParte\ReceiverCom_Topicos\bin\Debug\net8.0\System.Net.Http.Json.dll

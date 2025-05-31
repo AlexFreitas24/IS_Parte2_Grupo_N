@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "ProducaoAPI.Controllers.ProdutoController",
+    "Method": "Get",
+    "RelativePath": "api/Produto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProducaoAPI.Controllers.ProdutoController",
+    "Method": "Post",
+    "RelativePath": "api/Produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produto",
+        "Type": "ProducaoAPI.Models.Produto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProducaoAPI.Controllers.ProdutoController",
+    "Method": "GetProduto",
+    "RelativePath": "api/Produto/{codigoPeca}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigoPeca",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProducaoAPI.Controllers.ProdutoController",
+    "Method": "Put",
+    "RelativePath": "api/Produto/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "body",
+        "Type": "ProducaoAPI.Models.Produto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProducaoAPI.Controllers.ProdutoController",
+    "Method": "Delete",
+    "RelativePath": "api/Produto/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProducaoAPI.Controllers.TesteController",
+    "Method": "Get",
+    "RelativePath": "api/Teste",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProducaoAPI.Controllers.TesteController",
+    "Method": "Post",
+    "RelativePath": "api/Teste",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teste",
+        "Type": "ProducaoAPI.Models.Teste",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

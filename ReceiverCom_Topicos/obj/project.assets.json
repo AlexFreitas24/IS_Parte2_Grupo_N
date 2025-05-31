@@ -35,6 +35,25 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "System.Net.Http.Json/9.0.5": {
+        "type": "package",
+        "dependencies": {
+          "System.Text.Json": "9.0.5"
+        },
+        "compile": {
+          "lib/net8.0/System.Net.Http.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.Net.Http.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        }
+      },
       "System.Text.Encodings.Web/9.0.5": {
         "type": "package",
         "compile": {
@@ -138,6 +157,34 @@
         "lib/netstandard2.0/System.IO.Pipelines.xml",
         "system.io.pipelines.9.0.5.nupkg.sha512",
         "system.io.pipelines.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Net.Http.Json/9.0.5": {
+      "sha512": "WobqAA+zMpzxJ6EkSNkHrjltyx+s+yTM+BoBJt74aqjBDyrsLE+buHvFyp49sjAyzRZ/ywJ25T4LMDX5b+zL3Q==",
+      "type": "package",
+      "path": "system.net.http.json/9.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Net.Http.Json.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net8.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Net.Http.Json.targets",
+        "lib/net462/System.Net.Http.Json.dll",
+        "lib/net462/System.Net.Http.Json.xml",
+        "lib/net8.0/System.Net.Http.Json.dll",
+        "lib/net8.0/System.Net.Http.Json.xml",
+        "lib/net9.0/System.Net.Http.Json.dll",
+        "lib/net9.0/System.Net.Http.Json.xml",
+        "lib/netstandard2.0/System.Net.Http.Json.dll",
+        "lib/netstandard2.0/System.Net.Http.Json.xml",
+        "system.net.http.json.9.0.5.nupkg.sha512",
+        "system.net.http.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -277,6 +324,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "RabbitMQ.Client >= 7.1.2",
+      "System.Net.Http.Json >= 9.0.5",
       "System.Text.Json >= 9.0.5"
     ]
   },
@@ -332,6 +380,10 @@
           "RabbitMQ.Client": {
             "target": "Package",
             "version": "[7.1.2, )"
+          },
+          "System.Net.Http.Json": {
+            "target": "Package",
+            "version": "[9.0.5, )"
           },
           "System.Text.Json": {
             "target": "Package",

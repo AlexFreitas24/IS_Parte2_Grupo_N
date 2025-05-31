@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReceiverCom_Topicos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85b6ca5f1a461259a849589b9602e095811fc914")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec06ac1b58531b352db35cc571ad8527a953f52c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReceiverCom_Topicos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReceiverCom_Topicos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
