@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GUI_Stream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+566c327363a28b0e0f42892d4293548961e84ccd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af23a72e96bbffbd6a5762bf34ed922415d0abf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GUI_Stream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GUI_Stream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

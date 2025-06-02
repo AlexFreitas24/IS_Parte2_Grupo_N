@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonitorizaçãoFalha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85b6ca5f1a461259a849589b9602e095811fc914")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af23a72e96bbffbd6a5762bf34ed922415d0abf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonitorizaçãoFalha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonitorizaçãoFalha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
